@@ -1,4 +1,4 @@
-package latihan.kotlin.cedelabsapp2
+package latihan.kotlin.codelabsapp2
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

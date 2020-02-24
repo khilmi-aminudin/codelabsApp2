@@ -1,4 +1,4 @@
-package latihan.kotlin.cedelabsapp2
+package latihan.kotlin.codelabsapp2
 
 import org.junit.Test
 
